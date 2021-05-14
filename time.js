@@ -2,7 +2,7 @@ function show_date_time() {
 
 	window.setTimeout("show_date_time()", 1000);
 
-	BirthDay = new Date("2/12/2011 16:56:09");
+	BirthDay = new Date("19/7/2020");
 
 	today = new Date();
 
@@ -28,7 +28,7 @@ function show_date_time() {
 
 	seconds = Math.floor((e_minsold - minsold) * 60);
 
-	span_dt_dt.innerHTML = '<font style=color:#2f4154>' + daysold + '</font> 天 <font style=color:#2f4154>' + hrsold + '</font> 时 <font style=color:#2f4154>' + minsold + '</font> 分 <font style=color:#2f4154>' + seconds + '</font> 秒';
+	span_dt_dt.innerHTML = '<font style=color:#2f4154>' + daysold + '</font> 天 <font style=color:#2f4154>' + hrsold + '</font> 时 <font style=color:#2f4154>' + minsold + '</font> 分 <font style=color:#2f4154>';
 
 }
 
