@@ -44499,6 +44499,4 @@
 ||zzxhx.com^
 ||zzyanhushi.com^
 ||zzyonghao.com^
-! Block splash
-||api.zhihu.com/commercial_api/launch_v2^
-||api.zhihu.com/commercial_api/real_time_launch_v2^
+
