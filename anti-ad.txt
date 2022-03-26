@@ -44500,5 +44500,4 @@
 ||zzyanhushi.com^
 ||zzyonghao.com^
 
-@@||edge-enterprise.activity.windows.com^$important
-@@||edge.activity.windows.com^$important
+
